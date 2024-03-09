@@ -1,0 +1,14 @@
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.RealCalculator\obj\Debug\net6.0\Class03Homework.RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.RealCalculator\obj\Debug\net6.0\Class03Homework.RealCalculator.AssemblyInfoInputs.cache
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.RealCalculator\obj\Debug\net6.0\Class03Homework.RealCalculator.AssemblyInfo.cs
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.RealCalculator\obj\Debug\net6.0\Class03Homework.RealCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.RealCalculator\bin\Debug\net6.0\Class03Homework.RealCalculator.exe
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.RealCalculator\bin\Debug\net6.0\Class03Homework.RealCalculator.deps.json
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.RealCalculator\bin\Debug\net6.0\Class03Homework.RealCalculator.runtimeconfig.json
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.RealCalculator\bin\Debug\net6.0\Class03Homework.RealCalculator.dll
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.RealCalculator\bin\Debug\net6.0\Class03Homework.RealCalculator.pdb
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.RealCalculator\obj\Debug\net6.0\Class03Homework.RealCalculator.dll
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.RealCalculator\obj\Debug\net6.0\refint\Class03Homework.RealCalculator.dll
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.RealCalculator\obj\Debug\net6.0\Class03Homework.RealCalculator.pdb
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.RealCalculator\obj\Debug\net6.0\Class03Homework.RealCalculator.genruntimeconfig.cache
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.RealCalculator\obj\Debug\net6.0\ref\Class03Homework.RealCalculator.dll
