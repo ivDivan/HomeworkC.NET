@@ -1,0 +1,14 @@
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.StudentGroup\bin\Debug\net6.0\Class03Homework.StudentGroup.exe
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.StudentGroup\bin\Debug\net6.0\Class03Homework.StudentGroup.deps.json
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.StudentGroup\bin\Debug\net6.0\Class03Homework.StudentGroup.runtimeconfig.json
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.StudentGroup\bin\Debug\net6.0\Class03Homework.StudentGroup.dll
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.StudentGroup\bin\Debug\net6.0\Class03Homework.StudentGroup.pdb
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.StudentGroup\obj\Debug\net6.0\Class03Homework.StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.StudentGroup\obj\Debug\net6.0\Class03Homework.StudentGroup.AssemblyInfoInputs.cache
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.StudentGroup\obj\Debug\net6.0\Class03Homework.StudentGroup.AssemblyInfo.cs
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.StudentGroup\obj\Debug\net6.0\Class03Homework.StudentGroup.csproj.CoreCompileInputs.cache
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.StudentGroup\obj\Debug\net6.0\Class03Homework.StudentGroup.dll
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.StudentGroup\obj\Debug\net6.0\refint\Class03Homework.StudentGroup.dll
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.StudentGroup\obj\Debug\net6.0\Class03Homework.StudentGroup.pdb
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.StudentGroup\obj\Debug\net6.0\Class03Homework.StudentGroup.genruntimeconfig.cache
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.StudentGroup\obj\Debug\net6.0\ref\Class03Homework.StudentGroup.dll

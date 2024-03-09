@@ -1,0 +1,14 @@
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.SumOfEven\bin\Debug\net6.0\Class03Homework.SumOfEven.exe
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.SumOfEven\bin\Debug\net6.0\Class03Homework.SumOfEven.deps.json
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.SumOfEven\bin\Debug\net6.0\Class03Homework.SumOfEven.runtimeconfig.json
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.SumOfEven\bin\Debug\net6.0\Class03Homework.SumOfEven.dll
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.SumOfEven\bin\Debug\net6.0\Class03Homework.SumOfEven.pdb
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.SumOfEven\obj\Debug\net6.0\Class03Homework.SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.SumOfEven\obj\Debug\net6.0\Class03Homework.SumOfEven.AssemblyInfoInputs.cache
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.SumOfEven\obj\Debug\net6.0\Class03Homework.SumOfEven.AssemblyInfo.cs
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.SumOfEven\obj\Debug\net6.0\Class03Homework.SumOfEven.csproj.CoreCompileInputs.cache
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.SumOfEven\obj\Debug\net6.0\Class03Homework.SumOfEven.dll
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.SumOfEven\obj\Debug\net6.0\refint\Class03Homework.SumOfEven.dll
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.SumOfEven\obj\Debug\net6.0\Class03Homework.SumOfEven.pdb
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.SumOfEven\obj\Debug\net6.0\Class03Homework.SumOfEven.genruntimeconfig.cache
+C:\Users\Divan\Desktop\.NET\Class03Homework\Class03Homework\Class03Homework.SumOfEven\obj\Debug\net6.0\ref\Class03Homework.SumOfEven.dll
