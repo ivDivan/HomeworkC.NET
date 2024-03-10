@@ -1,0 +1,14 @@
+C:\Users\Divan\Desktop\.NET\Class04Homework\Class04Homework\Class04Homework.Bonus\bin\Debug\net6.0\Class04Homework.Bonus.exe
+C:\Users\Divan\Desktop\.NET\Class04Homework\Class04Homework\Class04Homework.Bonus\bin\Debug\net6.0\Class04Homework.Bonus.deps.json
+C:\Users\Divan\Desktop\.NET\Class04Homework\Class04Homework\Class04Homework.Bonus\bin\Debug\net6.0\Class04Homework.Bonus.runtimeconfig.json
+C:\Users\Divan\Desktop\.NET\Class04Homework\Class04Homework\Class04Homework.Bonus\bin\Debug\net6.0\Class04Homework.Bonus.dll
+C:\Users\Divan\Desktop\.NET\Class04Homework\Class04Homework\Class04Homework.Bonus\bin\Debug\net6.0\Class04Homework.Bonus.pdb
+C:\Users\Divan\Desktop\.NET\Class04Homework\Class04Homework\Class04Homework.Bonus\obj\Debug\net6.0\Class04Homework.Bonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divan\Desktop\.NET\Class04Homework\Class04Homework\Class04Homework.Bonus\obj\Debug\net6.0\Class04Homework.Bonus.AssemblyInfoInputs.cache
+C:\Users\Divan\Desktop\.NET\Class04Homework\Class04Homework\Class04Homework.Bonus\obj\Debug\net6.0\Class04Homework.Bonus.AssemblyInfo.cs
+C:\Users\Divan\Desktop\.NET\Class04Homework\Class04Homework\Class04Homework.Bonus\obj\Debug\net6.0\Class04Homework.Bonus.csproj.CoreCompileInputs.cache
+C:\Users\Divan\Desktop\.NET\Class04Homework\Class04Homework\Class04Homework.Bonus\obj\Debug\net6.0\Class04Homework.Bonus.dll
+C:\Users\Divan\Desktop\.NET\Class04Homework\Class04Homework\Class04Homework.Bonus\obj\Debug\net6.0\refint\Class04Homework.Bonus.dll
+C:\Users\Divan\Desktop\.NET\Class04Homework\Class04Homework\Class04Homework.Bonus\obj\Debug\net6.0\Class04Homework.Bonus.pdb
+C:\Users\Divan\Desktop\.NET\Class04Homework\Class04Homework\Class04Homework.Bonus\obj\Debug\net6.0\Class04Homework.Bonus.genruntimeconfig.cache
+C:\Users\Divan\Desktop\.NET\Class04Homework\Class04Homework\Class04Homework.Bonus\obj\Debug\net6.0\ref\Class04Homework.Bonus.dll
