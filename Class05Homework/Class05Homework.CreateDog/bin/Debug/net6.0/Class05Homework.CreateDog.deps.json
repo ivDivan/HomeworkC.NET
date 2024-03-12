@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Class05Homework.CreateDog/1.0.0": {
+        "runtime": {
+          "Class05Homework.CreateDog.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class05Homework.CreateDog/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
