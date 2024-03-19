@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Class07Homework.Task01/1.0.0": {
+        "dependencies": {
+          "Class07Homework.Task01Domain": "1.0.0"
+        },
+        "runtime": {
+          "Class07Homework.Task01.dll": {}
+        }
+      },
+      "Class07Homework.Task01Domain/1.0.0": {
+        "runtime": {
+          "Class07Homework.Task01Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class07Homework.Task01/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Class07Homework.Task01Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
