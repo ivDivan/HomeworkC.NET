@@ -1,0 +1,11 @@
+C:\Users\Divan\Desktop\.NET\Homework\Classo9Homework\Classo9Homework.Task02.Domain\bin\Debug\net6.0\Classo9Homework.Task02.Domain.deps.json
+C:\Users\Divan\Desktop\.NET\Homework\Classo9Homework\Classo9Homework.Task02.Domain\bin\Debug\net6.0\Classo9Homework.Task02.Domain.dll
+C:\Users\Divan\Desktop\.NET\Homework\Classo9Homework\Classo9Homework.Task02.Domain\bin\Debug\net6.0\Classo9Homework.Task02.Domain.pdb
+C:\Users\Divan\Desktop\.NET\Homework\Classo9Homework\Classo9Homework.Task02.Domain\obj\Debug\net6.0\Classo9Homework.Task02.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divan\Desktop\.NET\Homework\Classo9Homework\Classo9Homework.Task02.Domain\obj\Debug\net6.0\Classo9Homework.Task02.Domain.AssemblyInfoInputs.cache
+C:\Users\Divan\Desktop\.NET\Homework\Classo9Homework\Classo9Homework.Task02.Domain\obj\Debug\net6.0\Classo9Homework.Task02.Domain.AssemblyInfo.cs
+C:\Users\Divan\Desktop\.NET\Homework\Classo9Homework\Classo9Homework.Task02.Domain\obj\Debug\net6.0\Classo9Homework.Task02.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Divan\Desktop\.NET\Homework\Classo9Homework\Classo9Homework.Task02.Domain\obj\Debug\net6.0\Classo9Homework.Task02.Domain.dll
+C:\Users\Divan\Desktop\.NET\Homework\Classo9Homework\Classo9Homework.Task02.Domain\obj\Debug\net6.0\refint\Classo9Homework.Task02.Domain.dll
+C:\Users\Divan\Desktop\.NET\Homework\Classo9Homework\Classo9Homework.Task02.Domain\obj\Debug\net6.0\Classo9Homework.Task02.Domain.pdb
+C:\Users\Divan\Desktop\.NET\Homework\Classo9Homework\Classo9Homework.Task02.Domain\obj\Debug\net6.0\ref\Classo9Homework.Task02.Domain.dll

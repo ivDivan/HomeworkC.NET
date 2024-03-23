@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Class09Homework.Task02/1.0.0": {
+        "dependencies": {
+          "Classo9Homework.Task02.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Class09Homework.Task02.dll": {}
+        }
+      },
+      "Classo9Homework.Task02.Domain/1.0.0": {
+        "runtime": {
+          "Classo9Homework.Task02.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class09Homework.Task02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Classo9Homework.Task02.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
