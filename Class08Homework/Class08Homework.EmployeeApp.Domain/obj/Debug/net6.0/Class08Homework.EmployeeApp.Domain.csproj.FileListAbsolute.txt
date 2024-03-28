@@ -1,0 +1,11 @@
+C:\Users\Divan\Desktop\.NET\Homework\Class08Homework\Class08Homework.EmployeeApp.Domain\bin\Debug\net6.0\Class08Homework.EmployeeApp.Domain.deps.json
+C:\Users\Divan\Desktop\.NET\Homework\Class08Homework\Class08Homework.EmployeeApp.Domain\bin\Debug\net6.0\Class08Homework.EmployeeApp.Domain.dll
+C:\Users\Divan\Desktop\.NET\Homework\Class08Homework\Class08Homework.EmployeeApp.Domain\bin\Debug\net6.0\Class08Homework.EmployeeApp.Domain.pdb
+C:\Users\Divan\Desktop\.NET\Homework\Class08Homework\Class08Homework.EmployeeApp.Domain\obj\Debug\net6.0\Class08Homework.EmployeeApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Divan\Desktop\.NET\Homework\Class08Homework\Class08Homework.EmployeeApp.Domain\obj\Debug\net6.0\Class08Homework.EmployeeApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Divan\Desktop\.NET\Homework\Class08Homework\Class08Homework.EmployeeApp.Domain\obj\Debug\net6.0\Class08Homework.EmployeeApp.Domain.AssemblyInfo.cs
+C:\Users\Divan\Desktop\.NET\Homework\Class08Homework\Class08Homework.EmployeeApp.Domain\obj\Debug\net6.0\Class08Homework.EmployeeApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Divan\Desktop\.NET\Homework\Class08Homework\Class08Homework.EmployeeApp.Domain\obj\Debug\net6.0\Class08Homework.EmployeeApp.Domain.dll
+C:\Users\Divan\Desktop\.NET\Homework\Class08Homework\Class08Homework.EmployeeApp.Domain\obj\Debug\net6.0\refint\Class08Homework.EmployeeApp.Domain.dll
+C:\Users\Divan\Desktop\.NET\Homework\Class08Homework\Class08Homework.EmployeeApp.Domain\obj\Debug\net6.0\Class08Homework.EmployeeApp.Domain.pdb
+C:\Users\Divan\Desktop\.NET\Homework\Class08Homework\Class08Homework.EmployeeApp.Domain\obj\Debug\net6.0\ref\Class08Homework.EmployeeApp.Domain.dll
