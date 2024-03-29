@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Class01Homework.RockPaperScissorsLizardSpock/1.0.0": {
+        "runtime": {
+          "Class01Homework.RockPaperScissorsLizardSpock.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Class01Homework.RockPaperScissorsLizardSpock/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
